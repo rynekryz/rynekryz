@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "login": "rynekryz",
+  "seed": "#4285F4",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "socials",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Ryne",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · Kotlin"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:zedindustries",
+            "label": "Zed"
+          }
+        ]
+      },
+      {
+        "title": "OS",
+        "items": [
+          {
+            "icon": "brand:cachyos",
+            "label": "CachyOS"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "rynotes",
+      "webgl-raytracing-test",
+      "dormguard",
+      "ZenPixl"
+    ],
+    "overrides": {
+      "rynotes": {
+        "icon": "sticky_note_2"
+      },
+      "webgl-raytracing-test": {
+        "icon": "ev_shadow"
+      },
+      "dormguard": {
+        "icon": "security"
+      },
+      "ZenPixl": {
+        "icon": "image"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/YKhWXXhKmC"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/rynekryz"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://rynekryz.github.io",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/rynekryz?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
