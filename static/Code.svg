@@ -1,0 +1,49 @@
+<svg width="400" height="320" viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="320" rx="18" ry="18" fill="#1e1e1e"/>
+
+  <circle cx="35" cy="35" r="7" fill="#ff5f56"/>
+  <circle cx="60" cy="35" r="7" fill="#ffbd2e"/>
+  <circle cx="85" cy="35" r="7" fill="#27c93f"/>
+
+  <g font-family="monospace" font-size="16">
+    <g fill="#5c5c5c">
+      <text x="30" y="85">1</text>
+      <text x="30" y="115">2</text>
+      <text x="30" y="145">3</text>
+      <text x="30" y="175">4</text>
+      <text x="30" y="205">5</text>
+      <text x="30" y="235">6</text>
+      <text x="30" y="265">7</text>
+    </g>
+
+    <g transform="translate(70, 0)">
+      <text x="0" y="85" fill="#c586c0">#include</text>
+      <text x="80" y="85" fill="#ce9178">&lt;iostream&gt;</text>
+
+      <text x="0" y="115" fill="#c586c0">using</text>
+      <text x="60" y="115" fill="#9cdcfe">namespace</text>
+      <text x="160" y="115" fill="#4ec9b0">std</text>
+      <text x="190" y="115" fill="#ffffff">;</text>
+
+      <text x="0" y="145" fill="#569cd6">int</text>
+      <text x="40" y="145" fill="#dcdcaa">main</text>
+      <text x="80" y="145" fill="#ffd700">()</text>
+
+      <text x="0" y="175" fill="#ffd700">{</text>
+
+      <text x="40" y="205" fill="#9cdcfe">cout</text>
+      <text x="80" y="205" fill="#ffffff">&lt;&lt;</text>
+      <text x="110" y="205" fill="#ce9178">"hello world"</text>
+      <text x="235" y="205" fill="#ffffff">&lt;&lt;</text>
+      <text x="265" y="205" fill="#9cdcfe">endl</text>
+      <text x="305" y="205" fill="#ffffff">;</text>
+
+      <text x="40" y="235" fill="#9cdcfe">cout</text>
+      <text x="80" y="235" fill="#ffffff">&lt;&lt;</text>
+      <text x="110" y="235" fill="#ce9178">"I'm Ryne"</text>
+      <text x="245" y="235" fill="#ffffff">;</text>
+
+      <text x="0" y="265" fill="#ffd700">}</text>
+    </g>
+  </g>
+</svg>
