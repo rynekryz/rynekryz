@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="static/Code.svg" width="320"/>
+<img src="static/Code.svg" width="320"/>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Ryne"></picture>
 

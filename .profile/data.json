@@ -1,0 +1,290 @@
+{
+ "key": "d1c9f38b",
+ "stars": 9,
+ "contributions": 280,
+ "repos": 8,
+ "followers": 23,
+ "languages": [
+  [
+   "Kotlin",
+   214234
+  ],
+  [
+   "JavaScript",
+   188185
+  ],
+  [
+   "CSS",
+   144047
+  ],
+  [
+   "HTML",
+   87098
+  ],
+  [
+   "C++",
+   14498
+  ],
+  [
+   "GLSL",
+   4536
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "rynotes",
+   "url": "https://github.com/rynekryz/rynotes",
+   "text": "Secure, modern notes app for Android - built with Jetpack Compose & Material 3 Expressive.",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "material3",
+    "notes-app",
+    "md3e",
+    "material-you-expressive"
+   ]
+  },
+  {
+   "name": "webgl-raytracing-test",
+   "url": "https://github.com/rynekryz/webgl-raytracing-test",
+   "text": "Some glsl stuff",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "3d",
+    "browser",
+    "demo",
+    "global-illumination",
+    "glsl",
+    "physics",
+    "physics-simulation",
+    "raymarching",
+    "raytracing",
+    "realtime-rendering"
+   ]
+  },
+  {
+   "name": "dormguard",
+   "url": "https://github.com/rynekryz/dormguard",
+   "text": "Dormitory security monitoring app",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "foodping",
+   "url": "https://github.com/rynekryz/foodping",
+   "text": "Food expiry tracker",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "rynotes",
+   "url": "https://github.com/rynekryz/rynotes",
+   "text": "Secure, modern notes app for Android - built with Jetpack Compose & Material 3 Expressive.",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "material3",
+    "notes-app",
+    "md3e",
+    "material-you-expressive"
+   ]
+  },
+  {
+   "name": "webgl-raytracing-test",
+   "url": "https://github.com/rynekryz/webgl-raytracing-test",
+   "text": "Some glsl stuff",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "3d",
+    "browser",
+    "demo",
+    "global-illumination",
+    "glsl",
+    "physics",
+    "physics-simulation",
+    "raymarching",
+    "raytracing",
+    "realtime-rendering"
+   ]
+  },
+  {
+   "name": "rynekryz",
+   "url": "https://github.com/rynekryz/rynekryz",
+   "text": "About me",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "medzsync",
+   "url": "https://github.com/rynekryz/medzsync",
+   "text": "App for smart medicine box project",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "ZenPixl",
+   "url": "https://github.com/rynekryz/ZenPixl",
+   "text": "Image Tool (Resize and rounder)",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "foodping",
+   "url": "https://github.com/rynekryz/foodping",
+   "text": "Food expiry tracker",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dormguard",
+   "url": "https://github.com/rynekryz/dormguard",
+   "text": "Dormitory security monitoring app",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dormguard-user-manual",
+   "url": "https://github.com/rynekryz/dormguard-user-manual",
+   "text": "dormguard project user manual in flipbook",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
