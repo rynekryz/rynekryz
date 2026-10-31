@@ -1,8 +1,8 @@
 {
- "key": "a3554894",
- "stars": 10,
- "contributions": 288,
- "repos": 9,
+ "key": "ce919bbd",
+ "stars": 11,
+ "contributions": 293,
+ "repos": 11,
  "followers": 23,
  "languages": [
   [
@@ -11,19 +11,23 @@
   ],
   [
    "JavaScript",
-   188185
+   188325
   ],
   [
    "CSS",
-   144047
+   151416
   ],
   [
    "HTML",
-   87098
+   88656
   ],
   [
    "C++",
    14498
+  ],
+  [
+   "Astro",
+   10031
   ],
   [
    "GLSL",
@@ -137,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 31,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 5
  },
  "pins": [
@@ -173,6 +177,15 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/rynekryz/portfolio",
+   "text": "My personal website",
+   "fork": false,
+   "stars": 1,
+   "language": "Astro",
    "topics": []
   },
   {
@@ -254,6 +267,15 @@
    ]
   },
   {
+   "name": "portfolio",
+   "url": "https://github.com/rynekryz/portfolio",
+   "text": "My personal website",
+   "fork": false,
+   "stars": 1,
+   "language": "Astro",
+   "topics": []
+  },
+  {
    "name": "rynemaps",
    "url": "https://github.com/rynekryz/rynemaps",
    "text": "Open-source maps app for Android, powered by OpenStreetMap. No API keys. No accounts. No tracking.",
@@ -305,6 +327,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "rynekryz.github.io",
+   "url": "https://github.com/rynekryz/rynekryz.github.io",
+   "text": "Redirects to my portfolio",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
    "topics": []
   },
   {
