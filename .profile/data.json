@@ -1,13 +1,13 @@
 {
- "key": "9d335b0b",
- "stars": 12,
- "contributions": 296,
+ "key": "9dc98a50",
+ "stars": 13,
+ "contributions": 297,
  "repos": 12,
  "followers": 24,
  "languages": [
   [
    "Kotlin",
-   448359
+   448707
   ],
   [
    "JavaScript",
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 10,
     "today": true
    },
@@ -155,13 +155,44 @@
    ]
   },
   {
+   "name": "exiless",
+   "url": "https://github.com/rynekryz/exiless",
+   "text": "Remove metadata from photos and videos, lossless and fully offline",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "exif",
+    "exif-remover",
+    "exif-viewer",
+    "exiftool",
+    "gps",
+    "image-privacy",
+    "kotlin",
+    "metadata-remover"
+   ]
+  },
+  {
    "name": "rynemaps",
    "url": "https://github.com/rynekryz/rynemaps",
    "text": "Open-source maps app for Android, powered by OpenStreetMap. No API keys. No accounts. No tracking.",
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "android-app",
+    "gps",
+    "kotlin",
+    "kotlin-android",
+    "maplibre",
+    "maps",
+    "material-design",
+    "material-design-3-expressive",
+    "md3e"
+   ]
   },
   {
    "name": "portfolio",
@@ -191,15 +222,6 @@
     "raytracing",
     "realtime-rendering"
    ]
-  },
-  {
-   "name": "dormguard",
-   "url": "https://github.com/rynekryz/dormguard",
-   "text": "Dormitory security monitoring app",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
   },
   {
    "name": "foodping",
@@ -251,6 +273,26 @@
    ]
   },
   {
+   "name": "exiless",
+   "url": "https://github.com/rynekryz/exiless",
+   "text": "Remove metadata from photos and videos, lossless and fully offline",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "exif",
+    "exif-remover",
+    "exif-viewer",
+    "exiftool",
+    "gps",
+    "image-privacy",
+    "kotlin",
+    "metadata-remover"
+   ]
+  },
+  {
    "name": "portfolio",
    "url": "https://github.com/rynekryz/portfolio",
    "text": "My personal website",
@@ -266,7 +308,18 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "android-app",
+    "gps",
+    "kotlin",
+    "kotlin-android",
+    "maplibre",
+    "maps",
+    "material-design",
+    "material-design-3-expressive",
+    "md3e"
+   ]
   },
   {
    "name": "rynekryz",
@@ -311,15 +364,6 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "exiless",
-   "url": "https://github.com/rynekryz/exiless",
-   "text": "Remove metadata from photos and videos, lossless and fully offline",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {
