@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Ryne",
-    "subtitle": "I make Android apps and websites that respect you — private, offline, no tracking.",
+    "subtitle": "I make Android apps and websites that respect you. Private, offline, no tracking.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
