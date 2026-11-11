@@ -1,6 +1,6 @@
 {
- "key": "761057f2",
- "stars": 12,
+ "key": "5c15dc0f",
+ "stars": 13,
  "contributions": 285,
  "repos": 11,
  "followers": 24,
@@ -141,6 +141,26 @@
  },
  "pins": [
   {
+   "name": "sniffsniff",
+   "url": "https://github.com/rynekryz/sniffsniff",
+   "text": "Network traffic monitor for Android. See what every app is doing, on your device only.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "cybersecurity",
+    "jetpack-compose",
+    "kotlin",
+    "material-you",
+    "material3-expressive",
+    "md3e",
+    "network-analyzer",
+    "network-diagnostics"
+   ]
+  },
+  {
    "name": "rynotes",
    "url": "https://github.com/rynekryz/rynotes",
    "text": "Secure, modern notes app for Android - built with Jetpack Compose & Material 3 Expressive.",
@@ -226,15 +246,6 @@
     "raytracing",
     "realtime-rendering"
    ]
-  },
-  {
-   "name": "foodping",
-   "url": "https://github.com/rynekryz/foodping",
-   "text": "Food expiry tracker",
-   "fork": true,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
   }
  ],
  "all": [
@@ -274,6 +285,26 @@
     "raymarching",
     "raytracing",
     "realtime-rendering"
+   ]
+  },
+  {
+   "name": "sniffsniff",
+   "url": "https://github.com/rynekryz/sniffsniff",
+   "text": "Network traffic monitor for Android. See what every app is doing, on your device only.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "cybersecurity",
+    "jetpack-compose",
+    "kotlin",
+    "material-you",
+    "material3-expressive",
+    "md3e",
+    "network-analyzer",
+    "network-diagnostics"
    ]
   },
   {
@@ -359,15 +390,6 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "sniffsniff",
-   "url": "https://github.com/rynekryz/sniffsniff",
-   "text": "Network traffic monitor for Android. See what every app is doing, on your device only.",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {
