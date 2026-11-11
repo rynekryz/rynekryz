@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Ryne",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I make Android apps and websites that respect you — private, offline, no tracking.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "JavaScript · Kotlin"
+        "label": "Kotlin · Astro"
       }
     ]
   },
@@ -43,12 +43,12 @@
         "label": "Developer and designer"
       },
       {
-        "icon": "code",
-        "label": "Mostly frontend"
+        "icon": "privacy_tip",
+        "label": "Privacy first, always"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Into One UI & Material Design"
       }
     ]
   },
@@ -63,18 +63,38 @@
             "label": "Kotlin"
           },
           {
+            "icon": "brand:jetpackcompose",
+            "label": "Jetpack Compose"
+          },
+          {
+            "icon": "brand:astro",
+            "label": "Astro"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
             "icon": "brand:javascript",
             "label": "JavaScript"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:cplusplus",
+            "label": "C++"
           }
         ]
       },
       {
         "title": "Tools",
         "items": [
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
+          },
+          {
+            "icon": "brand:fastlane",
+            "label": "Fastlane"
+          },
           {
             "icon": "brand:git",
             "label": "Git"
@@ -112,19 +132,36 @@
     "source": "manual",
     "repos": [
       "rynotes",
+      "exiless",
+      "rynemaps",
+      "portfolio",
       "webgl-raytracing-test",
-      "dormguard",
-      "rynemaps"
+      "dormguard"
     ],
     "overrides": {
       "rynotes": {
-        "icon": "sticky_note_2"
+        "icon": "sticky_note_2",
+        "shape": "cookie"
+      },
+      "exiless": {
+        "icon": "hide_image",
+        "shape": "cookie"
+      },
+      "rynemaps": {
+        "icon": "map",
+        "shape": "cookie"
+      },
+      "portfolio": {
+        "icon": "contact_page",
+        "shape": "cookie"
       },
       "webgl-raytracing-test": {
-        "icon": "ev_shadow"
+        "icon": "ev_shadow",
+        "shape": "cookie"
       },
       "dormguard": {
-        "icon": "security"
+        "icon": "security",
+        "shape": "cookie"
       }
     },
     "empty": "No description yet.",

@@ -1,8 +1,8 @@
 {
- "key": "9dc98a50",
- "stars": 13,
- "contributions": 297,
- "repos": 12,
+ "key": "ea976721",
+ "stars": 12,
+ "contributions": 280,
+ "repos": 10,
  "followers": 24,
  "languages": [
   [
@@ -11,15 +11,15 @@
   ],
   [
    "JavaScript",
-   188325
+   147264
   ],
   [
    "CSS",
-   151416
+   115215
   ],
   [
    "HTML",
-   88656
+   71639
   ],
   [
    "C++",
@@ -74,7 +74,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 1,
     "day": 1,
     "today": false
    },
@@ -121,18 +121,22 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 1,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [
@@ -331,15 +335,6 @@
    "topics": []
   },
   {
-   "name": "medzsync",
-   "url": "https://github.com/rynekryz/medzsync",
-   "text": "App for smart medicine box project",
-   "fork": false,
-   "stars": 1,
-   "language": "CSS",
-   "topics": []
-  },
-  {
    "name": "ZenPixl",
    "url": "https://github.com/rynekryz/ZenPixl",
    "text": "Image Tool (Resize and rounder)",
@@ -373,15 +368,6 @@
    "fork": false,
    "stars": 0,
    "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "dormguard-user-manual",
-   "url": "https://github.com/rynekryz/dormguard-user-manual",
-   "text": "dormguard project user manual in flipbook",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   }
  ]
