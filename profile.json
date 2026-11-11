@@ -133,10 +133,12 @@
     "repos": [
       "rynotes",
       "exiless",
+      "sniffsniff",
       "rynemaps",
       "portfolio",
       "webgl-raytracing-test",
-      "dormguard"
+      "dormguard",
+      "foodping"
     ],
     "overrides": {
       "rynotes": {
@@ -145,6 +147,10 @@
       },
       "exiless": {
         "icon": "hide_image",
+        "shape": "cookie"
+      },
+      "sniffsniff": {
+        "icon": "wifi",
         "shape": "cookie"
       },
       "rynemaps": {
@@ -161,6 +167,10 @@
       },
       "dormguard": {
         "icon": "security",
+        "shape": "cookie"
+      },
+      "foodping": {
+        "icon": "restaurant",
         "shape": "cookie"
       }
     },
