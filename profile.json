@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Ryne",
-    "subtitle": "I make Android apps and websites that respect you. Private, offline, no tracking.",
+    "subtitle": "I make apps and websites that respect you. Private, offline, no tracking.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -131,14 +131,14 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "rynotes",
-      "exiless",
       "sniffsniff",
+      "exiless",
+      "melissm",
+      "rynotes",
       "rynemaps",
       "portfolio",
       "webgl-raytracing-test",
-      "dormguard",
-      "foodping"
+      "dormguard"
     ],
     "overrides": {
       "rynotes": {
@@ -150,7 +150,11 @@
         "shape": "cookie"
       },
       "sniffsniff": {
-        "icon": "wifi",
+        "icon": "monitoring",
+        "shape": "cookie"
+      },
+      "melissm": {
+        "icon": "music_note",
         "shape": "cookie"
       },
       "rynemaps": {
@@ -162,15 +166,11 @@
         "shape": "cookie"
       },
       "webgl-raytracing-test": {
-        "icon": "dark_mode",
+        "icon": "deployed_code",
         "shape": "cookie"
       },
       "dormguard": {
         "icon": "security",
-        "shape": "cookie"
-      },
-      "foodping": {
-        "icon": "restaurant",
         "shape": "cookie"
       }
     },
