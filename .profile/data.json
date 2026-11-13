@@ -1,7 +1,7 @@
 {
- "key": "55c4745",
+ "key": "b6375f99",
  "stars": 13,
- "contributions": 290,
+ "contributions": 300,
  "repos": 12,
  "followers": 24,
  "languages": [
@@ -22,12 +22,12 @@
    71639
   ],
   [
-   "Astro",
-   39728
+   "Rust",
+   42509
   ],
   [
-   "Rust",
-   34279
+   "Astro",
+   40363
   ],
   [
    "TypeScript",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 13,
     "day": 13,
     "today": true
    },
@@ -169,24 +169,6 @@
    ]
   },
   {
-   "name": "rynotes",
-   "url": "https://github.com/rynekryz/rynotes",
-   "text": "Secure, modern notes app for Android - built with Jetpack Compose & Material 3 Expressive.",
-   "fork": false,
-   "stars": 4,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "jetpack-compose",
-    "kotlin",
-    "material-design",
-    "material3",
-    "notes-app",
-    "md3e",
-    "material-you-expressive"
-   ]
-  },
-  {
    "name": "exiless",
    "url": "https://github.com/rynekryz/exiless",
    "text": "Remove metadata from photos and videos, lossless and fully offline",
@@ -204,6 +186,33 @@
     "image-privacy",
     "kotlin",
     "metadata-remover"
+   ]
+  },
+  {
+   "name": "melissm",
+   "url": "https://github.com/rynekryz/melissm",
+   "text": "It plays music, literally. what else would it do",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "rynotes",
+   "url": "https://github.com/rynekryz/rynotes",
+   "text": "Secure, modern notes app for Android - built with Jetpack Compose & Material 3 Expressive.",
+   "fork": false,
+   "stars": 4,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "material3",
+    "notes-app",
+    "md3e",
+    "material-you-expressive"
    ]
   },
   {
@@ -234,26 +243,6 @@
    "stars": 1,
    "language": "Astro",
    "topics": []
-  },
-  {
-   "name": "webgl-raytracing-test",
-   "url": "https://github.com/rynekryz/webgl-raytracing-test",
-   "text": "Some glsl stuff",
-   "fork": false,
-   "stars": 2,
-   "language": "JavaScript",
-   "topics": [
-    "3d",
-    "browser",
-    "demo",
-    "global-illumination",
-    "glsl",
-    "physics",
-    "physics-simulation",
-    "raymarching",
-    "raytracing",
-    "realtime-rendering"
-   ]
   }
  ],
  "all": [
