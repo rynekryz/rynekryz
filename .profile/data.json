@@ -1,7 +1,7 @@
 {
- "key": "7dc52b5f",
- "stars": 13,
- "contributions": 303,
+ "key": "79e9401",
+ "stars": 14,
+ "contributions": 311,
  "repos": 12,
  "followers": 24,
  "languages": [
@@ -15,23 +15,23 @@
   ],
   [
    "CSS",
-   123989
+   127945
   ],
   [
    "HTML",
    71639
   ],
   [
-   "Rust",
-   54381
+   "Astro",
+   60861
   ],
   [
-   "Astro",
-   40372
+   "Rust",
+   50525
   ],
   [
    "TypeScript",
-   18588
+   25233
   ]
  ],
  "days": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 11,
     "day": 14,
     "today": true
    }
@@ -195,11 +195,22 @@
   {
    "name": "melissm",
    "url": "https://github.com/rynekryz/melissm",
-   "text": "It plays music, literally. what else would it do",
+   "text": "A material you expressive music streaming app. It plays music, literally. what else would it do",
    "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
+   "stars": 1,
+   "language": "Astro",
+   "topics": [
+    "arch-linux",
+    "astro",
+    "desktop-app",
+    "gstreamer",
+    "linux",
+    "material-3-expressive",
+    "material-design-3",
+    "material-you",
+    "matugen",
+    "md3e"
+   ]
   },
   {
    "name": "rynotes",
@@ -286,6 +297,26 @@
     "raymarching",
     "raytracing",
     "realtime-rendering"
+   ]
+  },
+  {
+   "name": "melissm",
+   "url": "https://github.com/rynekryz/melissm",
+   "text": "A material you expressive music streaming app. It plays music, literally. what else would it do",
+   "fork": false,
+   "stars": 1,
+   "language": "Astro",
+   "topics": [
+    "arch-linux",
+    "astro",
+    "desktop-app",
+    "gstreamer",
+    "linux",
+    "material-3-expressive",
+    "material-design-3",
+    "material-you",
+    "matugen",
+    "md3e"
    ]
   },
   {
@@ -391,15 +422,6 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "melissm",
-   "url": "https://github.com/rynekryz/melissm",
-   "text": "It plays music, literally. what else would it do",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
    "topics": []
   },
   {
