@@ -147,12 +147,11 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "melissm",
       "sniffsniff",
       "exiless",
+      "melissm",
       "rynotes",
       "rynemaps",
-      "ZenPixl",
       "portfolio",
       "webgl-raytracing-test",
       "dormguard"
@@ -188,10 +187,6 @@
       },
       "dormguard": {
         "icon": "security",
-        "shape": "cookie"
-      },
-      "ZenPixl": {
-        "icon": "image",
         "shape": "cookie"
       }
     },
