@@ -151,7 +151,7 @@
       "exiless",
       "melissm",
       "rynotes",
-      "rynemaps",
+      "graphyte",
       "portfolio",
       "webgl-raytracing-test",
       "dormguard"
@@ -173,7 +173,7 @@
         "icon": "music_note",
         "shape": "cookie"
       },
-      "rynemaps": {
+      "graphyte": {
         "icon": "map",
         "shape": "cookie"
       },
