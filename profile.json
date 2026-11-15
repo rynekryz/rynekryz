@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "Kotlin · Astro"
+        "label": "Kotlin · Astro · Rust"
       }
     ]
   },
@@ -40,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Android & web developer"
       },
       {
         "icon": "privacy_tip",
-        "label": "Privacy first, always"
+        "label": "Privacy first, offline by default"
       },
       {
         "icon": "palette",
-        "label": "Into One UI & Material Design"
+        "label": "Material 3 Expressive & One UI"
       }
     ]
   },
@@ -81,6 +81,22 @@
           {
             "icon": "brand:cplusplus",
             "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "deployed_code",
+            "label": "GLSL"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
           }
         ]
       },
@@ -131,11 +147,12 @@
   "projects": {
     "source": "manual",
     "repos": [
+      "melissm",
       "sniffsniff",
       "exiless",
-      "melissm",
       "rynotes",
       "rynemaps",
+      "ZenPixl",
       "portfolio",
       "webgl-raytracing-test",
       "dormguard"
@@ -171,6 +188,10 @@
       },
       "dormguard": {
         "icon": "security",
+        "shape": "cookie"
+      },
+      "ZenPixl": {
+        "icon": "image",
         "shape": "cookie"
       }
     },
