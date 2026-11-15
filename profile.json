@@ -40,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Android & web developer"
+        "label": "Developer and designer"
       },
       {
         "icon": "privacy_tip",
-        "label": "Privacy first, offline by default"
+        "label": "Privacy first, always"
       },
       {
         "icon": "palette",
-        "label": "Material 3 Expressive & One UI"
+        "label": "Into One UI & Material Design"
       }
     ]
   },
