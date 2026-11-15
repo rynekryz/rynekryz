@@ -1,13 +1,13 @@
 {
- "key": "9724c7f9",
- "stars": 14,
+ "key": "9f773814",
+ "stars": 15,
  "contributions": 345,
  "repos": 13,
  "followers": 24,
  "languages": [
   [
    "Kotlin",
-   865805
+   866037
   ],
   [
    "JavaScript",
@@ -227,13 +227,24 @@
    ]
   },
   {
-   "name": "portfolio",
-   "url": "https://github.com/rynekryz/portfolio",
-   "text": "My personal website",
+   "name": "celestite",
+   "url": "https://github.com/rynekryz/celestite",
+   "text": "Simple screen recorder for Android - built with Jetpack Compose & Material 3 Expressive.",
    "fork": false,
    "stars": 1,
-   "language": "Astro",
-   "topics": []
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-android",
+    "material-design",
+    "material-you-expressive",
+    "material3",
+    "md3e",
+    "open-source"
+   ]
   }
  ],
  "all": [
@@ -273,6 +284,26 @@
     "raymarching",
     "raytracing",
     "realtime-rendering"
+   ]
+  },
+  {
+   "name": "celestite",
+   "url": "https://github.com/rynekryz/celestite",
+   "text": "Simple screen recorder for Android - built with Jetpack Compose & Material 3 Expressive.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-android",
+    "material-design",
+    "material-you-expressive",
+    "material3",
+    "md3e",
+    "open-source"
    ]
   },
   {
@@ -398,15 +429,6 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "celestite",
-   "url": "https://github.com/rynekryz/celestite",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {
