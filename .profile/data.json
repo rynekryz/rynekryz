@@ -1,7 +1,7 @@
 {
- "key": "2ad4a5f1",
+ "key": "bfe21699",
  "stars": 15,
- "contributions": 350,
+ "contributions": 352,
  "repos": 13,
  "followers": 24,
  "languages": [
@@ -15,23 +15,23 @@
   ],
   [
    "CSS",
-   127945
+   129268
+  ],
+  [
+   "Rust",
+   109605
+  ],
+  [
+   "Astro",
+   81798
   ],
   [
    "HTML",
    71639
   ],
   [
-   "Astro",
-   60861
-  ],
-  [
-   "Rust",
-   50525
-  ],
-  [
    "TypeScript",
-   26425
+   33549
   ]
  ],
  "days": [
@@ -118,9 +118,13 @@
    {
     "c": 5,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,8 +132,8 @@
   ]
  ],
  "streak": {
-  "current": 7,
-  "longest": 7
+  "current": 8,
+  "longest": 8
  },
  "pins": [
   {
@@ -178,7 +182,7 @@
    "text": "A material you expressive music streaming app. It plays music, literally. what else would it do",
    "fork": false,
    "stars": 1,
-   "language": "Astro",
+   "language": "Rust",
    "topics": [
     "arch-linux",
     "astro",
@@ -318,7 +322,7 @@
    "text": "A material you expressive music streaming app. It plays music, literally. what else would it do",
    "fork": false,
    "stars": 1,
-   "language": "Astro",
+   "language": "Rust",
    "topics": [
     "arch-linux",
     "astro",
