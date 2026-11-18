@@ -1,7 +1,7 @@
 {
- "key": "928cbb21",
+ "key": "24d38a44",
  "stars": 15,
- "contributions": 368,
+ "contributions": 370,
  "repos": 13,
  "followers": 24,
  "languages": [
@@ -10,12 +10,12 @@
    866037
   ],
   [
-   "JavaScript",
-   147542
+   "Rust",
+   153955
   ],
   [
-   "Rust",
-   134513
+   "JavaScript",
+   147542
   ],
   [
    "CSS",
@@ -23,7 +23,7 @@
   ],
   [
    "Astro",
-   106271
+   107647
   ],
   [
    "HTML",
@@ -31,7 +31,7 @@
   ],
   [
    "TypeScript",
-   46733
+   47476
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 8,
     "day": 18,
     "today": true
    },
