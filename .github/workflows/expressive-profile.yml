@@ -34,17 +34,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
 
-      - name: Restore header
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          p = Path("README.md")
-          s = p.read_text()
-          tag = '<img src="static/Code.svg" width="320"/>'
-          head = '<div align="center">\n\n'
-          if tag not in s and s.startswith(head):
-              p.write_text(head + tag + '\n\n' + s[len(head):])
-          PY
+      - name: Apply pixel art
+        run: python3 scripts/apply-pixel.py
 
       - name: Commit
         run: |
