@@ -44,7 +44,7 @@
       },
       {
         "icon": "privacy_tip",
-        "label": "Privacy first, always"
+        "label": "Privacy first for you"
       },
       {
         "icon": "palette",
@@ -153,8 +153,7 @@
       "rynotes",
       "graphyte",
       "portfolio",
-      "webgl-raytracing-test",
-      "dormguard"
+      "webgl-raytracing-test"
     ],
     "overrides": {
       "rynotes": {
@@ -183,10 +182,6 @@
       },
       "webgl-raytracing-test": {
         "icon": "deployed_code",
-        "shape": "cookie"
-      },
-      "dormguard": {
-        "icon": "security",
         "shape": "cookie"
       }
     },

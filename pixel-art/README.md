@@ -2,7 +2,7 @@
 
 # Pixel Art
 
-Monochrome, animated pixel dividers and stickers for my profile.
+Monochrome, animated pixel sky, dividers, and stickers for my profile.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="divider-wave-dark.svg"><img src="divider-wave-light.svg" width="100%" alt=""></picture>
 
@@ -16,8 +16,7 @@ Monochrome, animated pixel dividers and stickers for my profile.
 
 ## Sky
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="sky-left-dark.svg"><img src="sky-left-light.svg" width="200" alt="night sky with moon"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="sky-right-dark.svg"><img src="sky-right-light.svg" width="200" alt="night sky with sparkles"></picture> |
-| :---: | :---: |
+<picture><source media="(prefers-color-scheme: dark)" srcset="sky-banner-dark.svg"><img src="sky-banner-light.svg" width="100%" alt="night sky with moon and stars"></picture>
 
 ## Stickers
 
@@ -27,18 +26,18 @@ Monochrome, animated pixel dividers and stickers for my profile.
 
 ## Usage
 
-Move the SVG files into `assets/` and drop a block into the profile README.
+Keep the SVGs in `pixel-art/` and drop a block into the profile README.
 
 Divider:
 
 ```html
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-wave-dark.svg"><img src="assets/divider-wave-light.svg" width="100%" alt=""></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="pixel-art/divider-wave-dark.svg"><img src="pixel-art/divider-wave-light.svg" width="100%" alt=""></picture>
 ```
 
 Sticker:
 
 ```html
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sticker-cat-dark.svg"><img src="assets/sticker-cat-light.svg" width="96" alt=""></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="pixel-art/sticker-cat-dark.svg"><img src="pixel-art/sticker-cat-light.svg" width="96" alt=""></picture>
 ```
 
 ## Files
@@ -51,10 +50,8 @@ pixel-art
 ├── divider-sparkles-light.svg
 ├── divider-wave-dark.svg
 ├── divider-wave-light.svg
-├── sky-left-dark.svg
-├── sky-left-light.svg
-├── sky-right-dark.svg
-├── sky-right-light.svg
+├── sky-banner-dark.svg
+├── sky-banner-light.svg
 ├── sticker-cat-dark.svg
 ├── sticker-cat-light.svg
 ├── sticker-flower-dark.svg

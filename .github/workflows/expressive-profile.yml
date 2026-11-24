@@ -34,6 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
 
+      # keeps the custom pixel blocks after the generator rewrites README.md
       - name: Apply pixel art
         run: python3 scripts/apply-pixel.py
 
